@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dererumnaturali07carugoog/dererumnaturali07carugoog_0006.png"; bbox 0 0 3038 4864; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 11 516 232">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 11 516 232">
+     <span class='ocr_line' id='line_1_1' title="bbox 92 11 516 232; baseline 0.028 -82"><span class='ocrx_word' id='word_1_1' title='bbox 92 11 516 232; x_wconf 47' lang='lat' dir='ltr'><strong>„ww</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 637 581 993 668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 637 581 993 668">
+     <span class='ocr_line' id='line_1_2' title="bbox 637 581 993 668; baseline 0.011 -35"><span class='ocrx_word' id='word_1_2' title='bbox 637 581 753 634; x_wconf 70' lang='lat' dir='ltr'><strong>MRMD</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 765 587 878 668; x_wconf 59' lang='lat' dir='ltr'>come!</span> <span class='ocrx_word' id='word_1_4' title='bbox 890 586 993 637; x_wconf 69' lang='grc' dir='ltr'><strong>[ΙΒΕΑΠΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1524 4864">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1524 4864">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1524 4864; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1524 4864; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
